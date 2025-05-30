@@ -186,7 +186,7 @@ class ProceedGame
                     checkWinner();
                 }
                     break;
-
+  
                 case "b01":
                 if (O_Turn==0)
                 {
